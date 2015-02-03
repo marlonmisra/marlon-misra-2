@@ -28,7 +28,7 @@
         <h1 class='v-title'>Marlon Misra</h1>
 
         <ul class='nav nav-pills'>
-            <li class='v-red-pill'><a href="index.html">about</a></li>
+            <li class='v-red-pill'><a href="index.php">about</a></li>
             <li class='v-green-pill'><a href="essays.html">essays</a></li>
             <li class='v-blue-pill'><a href="projects.html">projects</a></li>
             <li class='v-grey-pill dropdown active'>
