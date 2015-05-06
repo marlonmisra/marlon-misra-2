@@ -14,7 +14,7 @@
     <![endif]-->
 
     <link href="assets/application-54883f1bcbdcbc5dd11cce6c94fe6cba.css" media="all" rel="stylesheet" />
-    <link href="custom.css" media="all" rel="stylesheet" />
+    <link href="assets/custom.css" media="all" rel="stylesheet" />
 
     <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16" />
@@ -37,10 +37,10 @@
 
     <div class='container-fluid'>
       <div class='v-container-narrow'>
-        <h1 class='v-title'> <a href="index.html" class="custom">Marlon Misra</a></h1>
+        <h1 class='v-title'> <a href="index.php" class="custom">Marlon Misra</a></h1>
 
         <ul class='nav nav-pills'>
-            <li class='v-red-pill'><a href="index.html">thoughts</a></li>
+            <li class='v-red-pill'><a href="thoughts.html">thoughts</a></li>
             <li class='v-green-pill'><a href="essays.html">projects</a></li>
             <li class='v-blue-pill'><a href="projects.html">notes</a></li>
             <li class='v-grey-pill dropdown active'>
