@@ -37,12 +37,12 @@
 
     <div class='container-fluid'>
       <div class='v-container-narrow'>
-        <h1 class='v-title'> <a href="index.php" class="custom">Marlon Misra</a></h1>
+        <h1 class='v-title'> <a href="index.html" class="custom">Marlon Misra</a></h1>
 
         <ul class='nav nav-pills'>
             <li class='v-red-pill'><a href="thoughts.html">thoughts</a></li>
-            <li class='v-green-pill'><a href="essays.html">projects</a></li>
-            <li class='v-blue-pill'><a href="projects.html">notes</a></li>
+            <li class='v-green-pill'><a href="projects.html">projects</a></li>
+            <li class='v-blue-pill'><a href="notes.html">notes</a></li>
             <li class='v-grey-pill dropdown active'>
               <a href='projects.html#' class='dropdown-toggle' data-toggle='dropdown'>more<b class='caret'></b></a>
               <ul class='dropdown-menu'>
