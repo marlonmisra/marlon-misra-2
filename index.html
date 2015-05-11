@@ -67,7 +67,7 @@
 
   <br /><br />
 
-  Some of my current interests are education, healthcare innovation, and machine learning. Let's <a href="mailto:marlonmisra@gmail.com">connect</a>. 
+  Some of my interests are startups, education, healthcare, and data science. 
 </div>
 
         </div>
