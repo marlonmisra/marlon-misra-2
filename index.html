@@ -63,11 +63,11 @@
 <div class='v-profile-picture visible-xs'></div>
 <br/>
 <div class='v-large-font v-blurb'>
-  I'm a product manager at <a href="http://climate.com">Climate</a> and build tools that help farmers make better decisions. 
+  I recently graduated and am currently backpacking in Southeast Asia. Some of my interests are startups, education, healthcare, agriculture, and data science. 
 
   <br /><br />
 
-  Some of my interests are startups, education, healthcare, and data science. 
+  In July I'm moving to San Francisco and joining <a href="http://climate.com">Climate</a> as a product manager. 
 </div>
 
         </div>
