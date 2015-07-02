@@ -67,7 +67,7 @@
 
   <br /><br />
 
-  In July I'm moving to San Francisco and joining <a href="http://climate.com">Climate</a> as a product manager. 
+  In July I'm moving to San Francisco and joining <a href="http://climate.com">Climate</a>. 
 </div>
 
         </div>
